@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitLibrary</string>
+    <string name="get">Get</string>
+    <string name="todo">TODO</string>
+    <string name="loading_dialog">Loading...</string>
+    <string name="error_dialog">Error</string>
+    <string name="error_dialog_content">Something went wrong!</string>
+</resources>
